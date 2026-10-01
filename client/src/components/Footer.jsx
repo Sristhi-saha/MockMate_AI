@@ -5,7 +5,7 @@ import { HiOutlineMail } from 'react-icons/hi'
 
 const footerLinks = [
   {
-    heading: 'Product',
+    heading: 'Products',
     links: ['Start Interview', 'View History', 'Dashboard', 'Pricing'],
   },
   {
