@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿# 🚀 MockMate AI
 
 > AI-powered mock interview platform that helps users practice technical, HR, and behavioral interviews with real-time AI feedback.
@@ -343,3 +344,6 @@ This project was built through the collaboration of passionate developers.
 - Frontend Performance Optimization
 
 Made with ❤️ by Surya Majhi
+=======
+# MockMate_AI
+>>>>>>> 8efb9c593281fa0a6c50d68f7e827d61a86627e1
